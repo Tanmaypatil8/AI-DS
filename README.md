@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Pandit Patil</h1>
 <h3 align="center">👨‍💻 Enthusiastic learner and practitioner in the realms of machine learning, data science, and web development. 💡 Always curious, constantly exploring new technologies and seeking innovative solutions. 🌐 Currently diving deep into AI algorithms, while honing skills in building dynamic web applications. Let's connect and explore the exciting world of tech together! 🚀 #ML #DataScience #WebDev #TechEnthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmatpatil8&label=Profile%20views&color=0e75b6&style=flat" alt="tanmatpatil8" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tanmaypati0509" target="blank"><img src="https://img.shields.io/twitter/follow/tanmaypati0509?logo=twitter&style=for-the-badge" alt="tanmaypati0509" /></a> </p>
 
