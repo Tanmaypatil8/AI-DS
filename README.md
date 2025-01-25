@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Data science](https://github.com/Tanmaypatil8/AI-DS.git)
 
-- 🌱 I’m currently learning **Of course! Here's a concise summary of what you're learning: --- 🤖 Exploring machine learning algorithms for AI applications. 📊 Diving into data science techniques for analysis and insights. 💻 Developing skills in web development for creating dynamic online experiences. 🔍 Constantly learning and staying updated on the latest tech trends and advancements.**
+- 🌱 I’m currently learning **🤖 Exploring machine learning algorithms for AI applications. 📊 Diving into data science techniques for analysis and insights. 💻 Developing skills in web development for creating dynamic online experiences. 🔍 Constantly learning and staying updated on the latest tech trends and advancements.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmaypatil8](https://github.com/Tanmaypatil8)
 
